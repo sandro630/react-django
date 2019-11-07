@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="41px" viewBox="0 0 41 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>delete icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Collections-Copy" transform="translate(-344.000000, -496.000000)">
+            <g id="delete-icon" transform="translate(344.000000, 496.000000)">
+                <circle id="Oval" fill="#AB0033" cx="20.5" cy="20.5" r="20.5"></circle>
+                <path d="M17,26 L19,26 L19,18 L17,18 L17,26 Z M21,26 L23,26 L23,18 L21,18 L21,26 Z M15,28 L25,28 L25,16 L15,16 L15,28 Z M17,14 L23,14 L23,12 L17,12 L17,14 Z M25,14 L25,10 L15,10 L15,14 L10,14 L10,16 L13,16 L13,30 L27,30 L27,16 L30,16 L30,14 L25,14 Z" id="delete-[#1487]" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

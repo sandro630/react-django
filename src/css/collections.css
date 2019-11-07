@@ -1,0 +1,138 @@
+
+p.title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    color: #4A4A4A;
+}
+
+p.text-resource{
+    font-size: 18px;
+    color: #4A4A4A;
+}
+
+p.text-collections {
+    font-size: 20px;
+    color: #4A4A4A;
+}
+
+.btn-plus{
+    border: none;
+    background-color: transparent;
+}
+
+.fa-plus {
+    color: #6C6C6C;
+    width: 81px;
+    height: 81px;
+}
+
+.square {
+    width: 100%; 
+    height: 200px; 
+    background-color: #E9E9E9; 
+    border-radius: 9px 9px 0 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+    border: 1px solid #E9E9E9;
+}
+
+.square-new {
+    width: 100%; 
+    height: 200px; 
+    background-color: #E9E9E9; 
+    border-radius: 9px 9px 0 0;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    float: none;
+    border: 1px solid #E9E9E9;
+}
+
+div.grayscale {
+    filter: none;
+    -webkit-filter: grayscale(0%);
+    -webkit-transition: all .6s ease; 
+    -webkit-backface-visibility: hidden; 
+    /* background-color: #D8D8D8; */
+    background-color: #E9E9E9;
+    border-radius: 9px;
+    border: 1px solid #D8D8D8;
+    margin: 20px;
+    display: flex; 
+    flex-direction: column;
+}
+div.square:after {
+    content:'';
+    position:absolute;
+    width:100%; height:100%;
+    top:0; left:0;
+    background:rgba(0,0,0,0.6);
+    opacity:0;
+    border-radius:9px;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    display: flex; 
+    flex-direction: column;
+}
+div.square:hover:after {
+    opacity:1;
+    padding: 0 15px;
+}
+
+div.square img {
+    width: 50%;
+    height: 100%;
+}
+
+.round-btn {
+    border-radius: 7px;
+    border: 1px solid #979797;
+    background: linear-gradient(#f2f2f2, #D4D4D4);
+    height: 21px;
+    font-size: 10px;
+    color: #4A4A4A;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 1em;
+    margin-right: 10px;
+}
+
+.p-0-25-0-65 {
+    padding: 0px 25px 0 65px
+}
+
+.drive-container {
+    max-width: 1200px;
+}
+
+.new-collection {
+    padding: 5px;
+    background-color: #D8D8D8; 
+    border-radius: 0 0 9px 9px;
+    flex-grow: 1;
+}
+
+.new-collection p {
+    margin-bottom: 0px;
+    word-break: break-all;
+}
+
+.btn-edit-image {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    width: 40%;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    z-index: 999;
+}
+
+

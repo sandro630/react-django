@@ -1,0 +1,17 @@
+.round-edge {
+    border-radius: 8px;
+    background-color: #ececec;
+}
+
+.fixed-container {
+    width: 1226px;
+}
+
+.standard-title p{
+    display: inline;
+    font-size: 14px;
+}
+
+button#dropdownMenuButton {
+    width: 100%;
+}
