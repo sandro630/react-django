@@ -5,5 +5,3 @@
 !Dockerfile
 !.dockerignore
 !src/
-src/*
-!src/actions/
