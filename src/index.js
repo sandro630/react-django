@@ -23,7 +23,7 @@ import EditProfile from "./containers/EditProfileContainer";
 import NewCollection from "./containers/NewCollectionContainer";
 import CommunitySetting from "./containers/CommunitySettingContainer";
 import SharingSetting from "./containers/SharingSettingContainer";
-import UploadWebResource from "./containers/UploadWebResourceContainer";
+import UploadWebResource from "./containers/UploadWebResourceContainer";fdsafdsafd
 
 
 import { PrivateRoute } from "./customRoutes/ProtectedRoutes";
