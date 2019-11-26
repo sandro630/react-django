@@ -1,0 +1,25 @@
+TriggerWord,Grade
+"G1,1st Grade,First Grade,Grade 1,Year 2",1
+"G2,2nd Grade,Second Grade,Grade 2,Year 3",2
+"G3,3rd Grade,Third Grade,Grade,Grade 3,Year 4",3
+"G4,4th Grade,Fourth Grade,Grade 4,Year 5",4
+"G5,5th Grade,Fifth Grade,Grade 5,Year 6",5
+"G6,6th Grade,Sixth Grade,Grade 6,Year 7",6
+"G7,7th Grade,Seventh Grade,Grade 7,Year 8",7
+"G8,8th Grade,Eighth Grade,Grade 8,Year 9",8
+"G9,9th Grade,Ninth Grade,Grade 9,Year 10",9
+"G10,10th Grade,Tenth Grade,Grade 10,Year 11",10
+"G11,11th Grade,Eleventh Grade,Grade 11",11
+"G12,12th Grade,Twelfth Grade,Grade 12",12
+"Kindergarten,K",K
+"Pre-K,Pre K,PK,PreK",Pre K
+"CCR Level A,A",CCR Level A
+"CCR Level B,B",CCR Level B
+"CCR Level C,C",CCR Level C
+"CCR Level D,D",CCR Level D
+"CCR Level E,E",CCR Level E
+Anchor Standards,Anchor Standards
+"Post Secondary,University,Community College,University-Freshman,University-Sophomore,University-Junior,University-Senior",Post Secondary
+Adult Basic Education,Adult Basic Education
+Adult Literacy,Adult Literacy
+Adult ESL,Adult ESL

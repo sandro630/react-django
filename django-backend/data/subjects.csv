@@ -1,0 +1,2022 @@
+TriggerWord,Subject
+English,ELA
+Reading,ELA
+Algebra,Math
+Physics,Science
+Social Studies,Social Studies
+History,Social Studies
+Civics,Social Studies
+Politics,Social Studies
+goverment,Social Studies
+Math,Math
+Geometry,Math
+Triganometry,Math
+Calculus,Math
+Literacy,Math
+Multiplication,Math
+Function,Math
+Sentence structure,ELA
+verbs,ELA
+nouns,ELA
+parts of speech,ELA
+Grammar,ELA
+Science ,Science
+Biology,Science
+Weather,Science
+Combustion,Science
+Engineering,Science
+Writing,ELA
+Speech,ELA
+Speaking and Listening,ELA
+Language,ELA
+Essay,ELA
+Vocabulary,ELA
+Phonetics,ELA
+Text Development,ELA
+Literary,ELA
+Literature,ELA
+Poetry,ELA
+Informational Text,ELA
+Reading Comprehension,ELA
+Text,ELA
+Algebraic Numbers,Math
+Algorithm,Math
+Analytic Geometry,Math
+Analytic Methods,Math
+Parametric Equations,Math
+Binomial Theorem,Math
+Cardinal Numbers,Math
+Cardinality,Math
+Cardioid,Math
+Cartesian Coordinates,Math
+Cartesian Form,Math
+Coefficient Matrix,Math
+Linear Algebra,Math
+Complex Numbers,Math
+Collinear,Math
+Column of a Matrix,Math
+Combination,Math
+Combination Formula,Math
+Combinatorics,Math
+Common Logarithm,Math
+Common Ratio,Math
+Commutative,Math
+Comparison Test,Math
+Compatible Matrices,Math
+Convergence Tests,Math
+Convergent Sequence,Math
+Convergent Series,Math
+Converse,Math
+Convex,Math
+Coordinate Geometry,Math
+Coordinate Plane,Math
+Cramer’s Rule,Math
+Critical Number,Math
+Critical Point,Math
+Critical Value,Math
+Cross Product,Math
+Boundary Value Problem,Math
+Bounded Function,Math
+Bounded Sequence,Math
+Bounded Set of Geometric Points,Math
+De Moivre’s Theorem,Math
+Decagon,Math
+Deciles,Math
+Decreasing Function,Math
+Definite Integral,Math
+Definite Integral Rules,Math
+Degenerate,Math
+Degenerate Conic Sections,Math
+Derivative of a Power Series,Math
+Derivative Rules,Math
+Differential Equation,Math
+Descartes' Rule of Signs,Math
+Determinant,Math
+Diagonal Matrix,Math
+Eccentricity,Math
+Echelon Form of a Matrix,Math
+Equation Rules,Math
+Equiangular Triangle,Math
+Equidistant,Math
+Equilateral Triangle,Math
+Equivalence Properties of Equality,Math
+Equivalence Relation,Math
+Equivalent Systems of Equations,Math
+Essential Discontinuity,Math
+Euclidean Geometry,Math
+Euler Line,Math
+Euler's Formula,Math
+Euler's Formula (Polyhedra),Math
+Even Number,Math
+Event,Math
+Exact Values of Trig Functions,Math
+Exclusive (interval),Math
+Exclusive or,Math
+Expand,Math
+Expansion by Cofactors,Math
+Exponential Decay,Math
+Exponential Function,Math
+Exponential Growth,Math
+Exponential Model,Math
+Exponentiation,Math
+Expression,Math
+Exterior Angle of a Polygon,Math
+Extraneous Solution,Math
+Extreme Value Theorem,Math
+Extreme Values of a Polynomial,Math
+Extremum,Math
+Face of a Polyhedron,Math
+Factor of an Integer,Math
+Factor of a Polynomial,Math
+Factor Theorem,Math
+Factor Tree,Math
+Factorial,Math
+Factoring Rules,Math
+Falling Bodies,Math
+Fibonacci Sequence,Math
+First Derivative,Math
+First Derivative Test,Math
+First Order Differential Equation,Math
+First Quartile,Math
+Five Number Summary,Math
+Fixed,Math
+Flip,Math
+Floor Function,Math
+Focal Radius,Math
+Fraction,Math
+Fraction Rules,Math
+Fractional Equation,Math
+Fractional Exponents,Math
+Frequency of a Periodic Function,Math
+Frequency of Periodic Motion,Math
+Frustum of a Cone or Pyramid,Math
+Function Operations,Math
+Fundamental Theorem of Algebra,Math
+Fundamental Theorem of Arithmetic,Math
+Fundamental Theorem of Calculus,Math
+Gauss-Jordan Elimination,Math
+Gaussian Elimination,Math
+Gaussian Integer,Math
+GCF,Math
+General Form for the Equation of a Line,Math
+Geometric Figure,Math
+Geometric Mean,Math
+Geometric Progression,Math
+Geometric Sequence,Math
+Geometric Series,Math
+Geometric Solid,Math
+Great Circle,Math
+Greatest Common Factor,Math
+Greatest Integer Function,Math
+Greatest Lower Bound,Math
+Golden Mean,Math
+Golden Ratio,Math
+Identity (Equation),Math
+Identity Function,Math
+Identity Matrix,Math
+Imaginary Numbers,Math
+Imaginary Part,Math
+Implicit Differentiation,Math
+Implicit Function or Relation,Math
+Impossible Event,Math
+Improper Fraction,Math
+Improper Integral,Math
+Improper Rational Expression,Math
+Independent Events,Math
+Independent Variable,Math
+Indeterminate Expression,Math
+Indirect Proof,Math
+Induction,Math
+Inequality,Math
+Inequality Rules,Math
+Infinite,Math
+Infinite Geometric Series,Math
+Infinite Limit,Math
+Infinite Series,Math
+Infinitesimal,Math
+Integral Methods,Math
+Integral of a Function,Math
+Integral of a Power Series,Math
+Integral Rules,Math
+Integral Table,Math
+Integral Test,Math
+Integral Test Remainder,Math
+Integrand,Math
+Integration,Math
+Integration by Parts,Math
+Integration by Substitution,Math
+Integration Methods,Math
+Intersection,Math
+Interval,Math
+Interval Notation,Math
+Interval of Convergence,Math
+Inverse Function,Math
+Inverse of a Conditional,Math
+Inverse of a Matrix,Math
+Inverse of an Operation,Math
+Inverse Proportion,Math
+Inverse Secant,Math
+Inverse Sine,Math
+Inverse Tangent,Math
+Inverse Trig,Math
+Inverse Trig Functions,Math
+Inverse Trigonometry,Math
+Inverse Variation,Math
+Inversely Proportional,Math
+Invertible Matrix,Math
+Irrational Numbers,Math
+Isometry,Math
+Isosceles ,Math
+Lateral Area,Math
+Lateral Surface Area,Math
+Lateral Surface/Face,Math
+Latus Rectum,Math
+Law of Cosines,Math
+Law of Sines,Math
+LCM,Math
+Leading Coefficient,Math
+Leading Term,Math
+Least Common Denominator,Math
+Least Common Multiple,Math
+Least Integer Function,Math
+Least-Squares Fit,Math
+Least-Squares Regression Line,Math
+Least Upper Bound,Math
+Leg of an Isosceles Triangle,Math
+Leg of a Right Triangle,Math
+Leg of a Trapezoid,Math
+Limit,Math
+Limit Comparison Test,Math
+Limit Test for Divergence,Math
+Limits of Integration,Math
+Line,Math
+Line Segment,Math
+Linear,Math
+Linear Combination,Math
+Linear Equation,Math
+Linear Factorization,Math
+Linear Fit,Math
+Linear Inequality,Math
+Linear Pair of Angles,Math
+Linear Polynomial,Math
+Linear Programming,Math
+Linear Regression,Math
+Linear System of Equations,Math
+Logarithm Rules,Math
+Logarithmic Differentiation,Math
+Logistic Growth,Math
+Long Division of Polynomials,Math
+Maclaurin Series,Math
+Magnitude,Math
+Magnitude of a Vector,Math
+Main Diagonal of a Matrix,Math
+Major Arc,Math
+Major Axis of an Ellipse,Math
+Major Axis of a Hyperbola,Math
+Major Diameter of an Ellipse,Math
+Mathematical Model,Math
+Matrix,Math
+Matrix Addition,Math
+Matrix Element,Math
+Matrix Inverse,Math
+Matrix Multiplication,Math
+Matrix of Cofactors,Math
+Matrix Subtraction,Math
+Mean of a Random Variable,Math
+Mean Value Theorem,Math
+Mean Value Theorem for Integrals,Math
+Measure of an Angle,Math
+Measurement,Math
+Median of a Set of Numbers,Math
+Median of a Trapezoid,Math
+Median of a Triangle,Math
+Member of an Equation,Math
+Menelaus’s Theorem,Math
+Mensuration,Math
+Minimum of a Function,Math
+Minor Arc,Math
+Minor Axis of an Ellipse,Math
+Minor Axis of a Hyperbola,Math
+Minor Diameter of an Ellipse,Math
+Minute,Math
+Mixed Number,Math
+Möbius Strip,Math
+Mode,Math
+Model,Math
+Modified Boxplot,Math
+Modular Arithmetic,Math
+Modular Equivalence,Math
+Modular Equivalence Rules,Math
+Multiplication Rule,Math
+Multiplicative Inverse of a Matrix,Math
+Multiplicative Inverse of a Number,Math
+Multiplicative Property of Equality,Math
+Multiplicity,Math
+Multivariable,Math
+Natural Domain,Math
+Natural Logarithm,Math
+Natural Numbers,Math
+Negative Direction,Math
+Negative Exponents,Math
+Negative Number,Math
+Negative Reciprocal,Math
+Negatively Associated Data,Math
+Non-Adjacent,Math
+Nonagon,Math
+Noncollinear,Math
+Non-Convex,Math
+Non-Euclidean Geometry,Math
+Noninvertible Matrix,Math
+Nonnegative,Math
+Nonnegative Integers,Math
+Nonreal numbers,Math
+Nonsingular Matrix,Math
+Nontrivial,Math
+Nonzero,Math
+Norm of a Partition,Math
+Norm of a Vector,Math
+Normal,Math
+Normalizing a Vector,Math
+nth Degree Taylor Polynomial,Math
+nth Derivative,Math
+Oblique,Math
+Oblique Asymptote,Math
+Oblique Cone,Math
+Oblique Cylinder,Math
+Oblique Prism,Math
+Oblique Pyramid,Math
+Obtuse Angle,Math
+Obtuse Triangle,Math
+Octants,Math
+Odd/Even Identities,Math
+Odd Function,Math
+Odd Number,Math
+Odds,Math
+Odds Against,Math
+Odds in Favor,Math
+One Dimension,Math
+One-Sided Limit,Math
+One-to-One Function,Math
+Open Interval,Math
+Operations on Functions,Math
+Opposite Reciprocal,Math
+Order of a Differential Equation,Math
+Ordered Pair,Math
+Ordered Triple,Math
+Ordinal Numbers,Math
+Ordinary Differential Equation,Math
+Parallel Cross Sections,Math
+Parallel Lines,Math
+Parallel Planes,Math
+Parallel Postulate,Math
+Parallelepiped,Math
+Parallelogram,Math
+Parameter (algebra),Math
+Parametric Derivative Formulas,Math
+Parametric Integral Formula,Math
+Parametrize,Math
+Parent Functions,Math
+Parentheses,Math
+Partial Derivative,Math
+Partial Differential Equation,Math
+Partial Fractions,Math
+Partial Sum of a Series,Math
+Perfect Number,Math
+Perfect Square,Math
+Perimeter,Math
+Period of a Periodic Function,Math
+Period of Periodic Motion,Math
+Periodic Function,Math
+Periodic Motion,Math
+Periodicity Identities,Math
+Permutation,Math
+Permutation Formula,Math
+Perpendicular,Math
+Perpendicular Bisector,Math
+Polar Angle of a Complex Number,Math
+Polar Axis,Math
+Polar Conversion Formulas,Math
+Polar Coordinates,Math
+Polar Curves,Math
+Polar Derivative Formulas,Math
+Polar Equation,Math
+Polar Form of a Complex Number,Math
+Polar Integral Formula,Math
+Polar-Rectangular Conversion Formulas,Math
+Polygon Interior,Math
+Polyhedron,Math
+Polynomial,Math
+Polynomial Facts,Math
+Polynomial Long Division,Math
+Population,Math
+Positive Direction,Math
+Positive Number,Math
+Positive Series,Math
+Positively Associated Data,Math
+Postulate,Math
+Power,Math
+Power Rule,Math
+Power Series,Math
+Prime Factorization,Math
+Prime Number,Math
+Principal,Math
+Prism,Math
+Probability,Math
+Product,Math
+Product Rule,Math
+Product to Sum Identities,Math
+Projectile Motion,Math
+Prolate Spheroid,Math
+Proof by Contradiction,Math
+Proper Fraction,Math
+Proper Rational Expression,Math
+Proper Subset,Math
+Properties of Equality,Math
+Quadratic Equation,Math
+Quadratic Formula,Math
+Quadratic Polynomial,Math
+Radian,Math
+Radical,Math
+Radical Rules,Math
+Radicand,Math
+Radius of a Circle or Sphere,Math
+Radius of Convergence,Math
+Range,Math
+Ratio,Math
+Ratio Identities,Math
+Ratio Test,Math
+Rational Equation,Math
+Rational Exponents,Math
+Rational Expression,Math
+Rational Function,Math
+Rational Numbers,Math
+Rational Root Theorem,Math
+Rational Zero Theorem,Math
+Rationalizing Substitutions,Math
+Rationalizing the Denominator,Math
+Reciprocal Rule,Math
+Rectangle,Math
+Rectangular Coordinates,Math
+Rectangular Form,Math
+Rectangular Parallelepiped,Math
+Recursive Formula of a Sequence,Math
+Reduce a Fraction,Math
+Reduced Row-Echelon Form of a Matrix,Math
+Reference Angle,Math
+Reflection,Math
+Reflexive Property,Math
+Regression,Math
+Regression Equation,Math
+Regression Line,Math
+Regular Right Pyramid,Math
+Regular Tetrahedron,Math
+Related Rates,Math
+Relation,Math
+Relative Maximum,Math
+Relative Minimum,Math
+Relatively Prime,Math
+Remainder,Math
+Remainder of a Series,Math
+Remainder Theorem,Math
+Riemann Sum,Math
+Riemannian Geometry,Math
+Right Angle,Math
+Right Circular Cone,Math
+Right Circular Cylinder,Math
+Right Prism,Math
+Right Pyramid,Math
+Right Regular Prism,Math
+Right Regular Pyramid,Math
+Right Square Parallelepiped,Math
+Right Square Prism,Math
+Right Triangle,Math
+RMS,Math
+Rolle's Theorem,Math
+Root Mean Square,Math
+Root of an Equation,Math
+Root of a Number,Math
+Root Rules,Math
+Root Test,Math
+Rose Curve,Math
+Rotation,Math
+Row-Echelon Form of a Matrix,Math
+Row of a Matrix,Math
+Row Operations,Math
+Row Reduction,Math
+Sample Space,Math
+Sandwich Theorem,Math
+SAS Congruence,Math
+SAS Similarity,Math
+Satisfy,Math
+Scalar,Math
+Scalar Product,Math
+Scale Factor,Math
+Scalene Triangle,Math
+Scatterplot,Math
+Scientific Notation,Math
+sec,Math
+sec-1,Math
+Secant (Trig Function),Math
+Secant Line,Math
+Second,Math
+Second Derivative,Math
+Second Derivative Test,Math
+Second Order Critical Point,Math
+Second Order Differential Equation,Math
+Sector of a Circle,Math
+Segment,Math
+Segment of a Circle,Math
+Self-Similarity,Math
+Semicircle,Math
+Semiperimeter,Math
+Separable Differential Equation,Math
+Set-Builder Notation,Math
+Set Complement,Math
+Set Intersection,Math
+Set Subtraction,Math
+Set Union,Math
+Shell Method,Math
+Shift,Math
+Shrink,Math
+Side of an Angle,Math
+Side of an Equation,Math
+Side of a Polygon,Math
+Sigma (Σ σ),Math
+Sigma Notation,Math
+Significant Digits,Math
+Similar,Math
+Similarity Tests for Triangles,Math
+Simple Closed Curve,Math
+Simple Harmonic Motion (SHM),Math
+Simple Interest,Math
+Simplify,Math
+Simpson's Rule,Math
+Simultaneous Equations,Math
+Solid Geometry,Math
+Solid of Revolution,Math
+Solution,Math
+Solution Set,Math
+Solve,Math
+Solve Analytically,Math
+Solve Graphically,Math
+Special Angles,Math
+Speed,Math
+Sphere,Math
+Spherical Trigonometry,Math
+Spheroid,Math
+Spiral,Math
+Spurious Solution,Math
+Square,Math
+Square Matrix,Math
+Square Root,Math
+Square Root Rules,Math
+Square System of Equations,Math
+Squeeze Theorem,Math
+Subset,Math
+Substitution Method,Math
+Subtraction of Sets,Math
+Sum,Math
+Sum/Difference Identities,Math
+Sum Rule for Probability,Math
+Sum to Product Identities,Math
+Superset,Math
+Supplement,Math
+Supplementary Angles,Math
+Surd,Math
+Sure Event,Math
+Surface,Math
+Surface Area,Math
+Surface Area of a Surface of Revolution,Math
+Surface of Revolution,Math
+Symmetric,Math
+Symmetric about the Origin,Math
+Symmetric about the x-axis,Math
+Symmetric about the y-axis,Math
+Symmetric across the Origin,Math
+Symmetric across the x-axis,Math
+Symmetric across the y-axis,Math
+Symmetric Property,Math
+Symmetric with Respect to the Origin,Math
+Symmetric with Respect to the x-axis,Math
+Symmetric with Respect to the y-axis,Math
+Synthetic Division,Math
+Synthetic Substitution,Math
+System of Equations,Math
+System of Inequalities,Math
+System of Linear Equations,Math
+Taylor Polynomial,Math
+Taylor Series,Math
+Taylor Series Remainder,Math
+Term,Math
+Terminal Side of an Angle,Math
+Three Dimensional Coordinates,Math
+Three Dimensions,Math
+Tilted Asymptote,Math
+Toolkit Functions,Math
+Torus,Math
+Transcendental Numbers,Math
+Transformations,Math
+Transitive Property of Equality,Math
+Transitive Property of Inequalities,Math
+Transpose of a Matrix,Math
+Transversal,Math
+Trapezium,Math
+Trapezoid,Math
+Trapezoid Rule,Math
+Triangle,Math
+Triangle Congruence Tests,Math
+Triangle Inequality,Math
+Triangle Inequality with Absolute Value,Math
+Triangle Similarity Tests,Math
+Triangulation,Math
+Trichotomy,Math
+Truncated Cone or Pyramid,Math
+Truncated Cylinder or Prism,Math
+Truncating a Number,Math
+Twin Primes,Math
+Two Dimensions,Math
+Undecagon,Math
+Undefined Slope,Math
+Underdetermined System of Equations,Math
+Uniform,Math
+Variable,Math
+Varignon Parallelogram of a Quadrilateral,Math
+Vector,Math
+Vector Calculus,Math
+Velocity,Math
+Venn Diagrams,Math
+Vertical Line Test,Math
+Vertical Parabola,Math
+Vertical Reflection,Math
+Vertical Shift,Math
+Vertical Shrink,Math
+Vertical Stretch,Math
+Vertical Translation,Math
+Vertices of an Ellipse,Math
+Vertices of a Hyperbola,Math
+Vinculum,Math
+Volume,Math
+Volume by Parallel Cross Sections,Math
+Vertex of a Hyperbola,Math
+Vertex of a Parabola,Math
+Vertical,Math
+Vertical Angles,Math
+Washer,Math
+Washer Method,Math
+Wavelength,Math
+Whole Numbers,Math
+Zero Slope,Math
+Zero Dimensions,Math
+Zero Matrix,Math
+Zero Vector,Math
+Academic Words/ Phrases,ELA
+Acknowledge,ELA
+Active Voice,ELA
+Adage,ELA
+Adjective,ELA
+Adjective Clause,ELA
+Adverb,ELA
+Adverb Clause,ELA
+Affix,ELA
+Anecdote,ELA
+Antecedent,ELA
+Antonym,ELA
+Bias,ELA
+Biography,ELA
+Body,ELA
+Cause/Effect,ELA
+Central Idea,ELA
+Central Message,ELA
+Chapter,ELA
+Character,ELA
+Connection,ELA
+Connotation/,ELA
+Connotative Meaning,ELA
+Correlative,ELA
+Conjunction,ELA
+Counterclaim,ELA
+Definition,ELA
+Delineate,ELA
+Demonstrate,ELA
+Denotation,ELA
+Difference,ELA
+Distinction,ELA
+Distinguish,ELA
+Ellipsis,ELA
+Evaluate,ELA
+Event Sequence,ELA
+Evidence,ELA
+Example,ELA
+Explain,ELA
+Explicit,ELA
+Fable,ELA
+Fact,ELA
+Figurative Language,ELA
+Figurative Meaning,ELA
+Figure of Speech,ELA
+First Person,ELA
+Firsthand Account,ELA
+Focus,ELA
+Folktale,ELA
+Form,ELA
+Formal Writing Style,ELA
+Fragment,ELA
+Future Perfect,ELA
+Future Perfect Tense,ELA
+Future Progressive,ELA
+Generalization,ELA
+Genre,ELA
+Gerund,ELA
+Gerund Phrase,ELA
+Historical Account,ELA
+Historical Event,ELA
+Historical Novel,ELA
+Homograph,ELA
+Humor,ELA
+Hyperbole,ELA
+Hyperlink,ELA
+Idiom,ELA
+Illustrate/Illustration,ELA
+Imperative Mood,ELA
+Inappropriate Shift in,ELA
+Incident,ELA
+Indicative Mood,ELA
+Inference,ELA
+Infinitive,ELA
+Informal Writing Style,ELA
+Informative Writing,ELA
+Integrate,ELA
+Intensive Pronoun,ELA
+Interjection,ELA
+Interpret,ELA
+Interpretation of Facts,ELA
+Interrogative,ELA
+Introduction/Introduce,ELA
+Irony,ELA
+Irregular Plural Noun,ELA
+Irregular Verb,ELA
+Irrelevant,ELA
+Items in a Series,ELA
+Judgment,ELA
+Key Concept,ELA
+Key Detail,ELA
+Key Event,ELA
+Key Word,ELA
+Lesson,ELA
+Literal Meaning,ELA
+Literary Text,ELA
+Main Idea,ELA
+Map,ELA
+Meaning,ELA
+Memoir,ELA
+Metaphor,ELA
+Misplaced Modifier,ELA
+Modal Auxiliary,ELA
+Modern,ELA
+Modifier,ELA
+Moral,ELA
+Multiple Accounts,ELA
+Multiple-Meaning,ELA
+Myth,ELA
+Narration,ELA
+Narrative Technique,ELA
+Narrative Writing,ELA
+Narrator,ELA
+Nonliteral Meaning,ELA
+Nonrestrictive,ELA
+Noun,ELA
+Nuance,ELA
+Objective,ELA
+Objective Case,ELA
+Pronoun,ELA
+"Objective Case Pronouns are me, you, him, her, it, us, them, whom, whomever.",ELA
+Opinion,ELA
+Opinion Writing,ELA
+Paragraph,ELA
+Parenthetical Element,ELA
+Participial Phrase,ELA
+Participles,ELA
+Passive Voice,ELA
+Past Participle,ELA
+Past Perfect,ELA
+Progressive,ELA
+Past Perfect Tense,ELA
+Past Progressive,ELA
+Pattern of Events,ELA
+Personification,ELA
+Phrase,ELA
+Place,ELA
+Plot,ELA
+Poem,ELA
+Point,ELA
+Point of View,ELA
+Position,ELA
+Possessive Case,ELA
+Predicate,ELA
+Preposition,ELA
+Prepositional Phrase,ELA
+Present Participle,ELA
+Present Perfect,ELA
+Present Perfect Tense,ELA
+Present Progressive,ELA
+Presentation,ELA
+they).,ELA
+Pronoun Case,ELA
+Pronoun Number,ELA
+Pronoun Person,ELA
+Pronoun-Antecedent,ELA
+Proverb,ELA
+Pun,ELA
+Reason,ELA
+Recognize,ELA
+Recount,ELA
+Relative Adverb,ELA
+Relative Pronoun,ELA
+Relevant,ELA
+Relevant Details,ELA
+Resolution,ELA
+Restate,ELA
+Rhyme,ELA
+Root,ELA
+Run-On Sentence,ELA
+Scene,ELA
+Secondhand Account,ELA
+Section,ELA
+Sensory Language,ELA
+Sentence,ELA
+Sequence,ELA
+Sequence of Steps,ELA
+Setting,ELA
+Shades of Meaning,ELA
+Shape Presentation,ELA
+Similarity,ELA
+Simile,ELA
+Simple Future Tense,ELA
+Simple Past Tense,ELA
+Simple Present Tense,ELA
+Simple Sentence,ELA
+Soliloquy,ELA
+Sonnet,ELA
+Sound Reasoning,ELA
+Speaker,ELA
+Stanza,ELA
+Step,ELA
+Story,ELA
+Story Element,ELA
+Structure,ELA
+Style,ELA
+Stylistic Technique,ELA
+Subject,ELA
+Subject Knowledge,ELA
+Subjective Case,ELA
+Subjective (Nominative),ELA
+Subject-Verb,ELA
+Subjunctive Mood,ELA
+Subordinating,ELA
+Sufficient,ELA
+Summarize,ELA
+Superlative Adjective,ELA
+Superlative Adverb,ELA
+Support,ELA
+Supporting Idea,ELA
+Suspense,ELA
+Synonym,ELA
+Tag Question,ELA
+Task (Writing),ELA
+Technical,ELA
+Technical Meaning,ELA
+Technical Procedure,ELA
+Technical Word/Phrase,ELA
+Text Feature,ELA
+Text Structure,ELA
+Theme,ELA
+Third Person,ELA
+Time,ELA
+Timeline,ELA
+Tone,ELA
+(Reading),ELA
+Topic,ELA
+Trace,ELA
+Traditional Stories/,ELA
+Trait,ELA
+Transitions,ELA
+Usage,ELA
+Vague Pronoun,ELA
+Verb,ELA
+Verb Mood,ELA
+Verb Tense,ELA
+Verb Voice,ELA
+Verbal,ELA
+Verse,ELA
+Viewpoint,ELA
+Word Choice,ELA
+Wordiness,ELA
+Writer’s Purpose,ELA
+Advanced Phonics,ELA
+Syllable,ELA
+Synthetic Phonics,ELA
+Abiotic,Science
+Acid deposition,Science
+Allele,Science
+Biochemical conversion,Science
+Biological diversity,Science
+Biomass conversion,Science
+Biomedical technology,Science
+Biomes,Science
+Biotechnology,Science
+Biotic,Science
+Carbon chemistry,Science
+Closing the loop,Science
+Commodities,Science
+Composting,Science
+Construction technology,Science
+Consumer,Science
+Decomposer,Science
+Desalinization,Science
+Dichotomous,Science
+Ecosystem,Science
+Electronic communication,Science
+Embryology,Science
+Endangered species,Science
+Environment,Science
+Enzyme,Science
+Equilibrium,Science
+Ergonomical,Science
+Evolution,Science
+Extinction,Science
+Geologic hazard,Science
+Geologic map,Science
+Groundwater,Science
+Hazardous waste,Science
+Homeostasis,Science
+Hydrology,Science
+Hypothesis,Science
+Information technology,Science
+Inquiry,Science
+Instructional technology,Science
+Integrated pest,Science
+management,Science
+Law,Science
+Lentic,Science
+Lotic,Science
+Manufacturing technology,Science
+Mitigation,Science
+Mitosis,Science
+Niche (ecological),Science
+Nonpoint source pollution,Science
+Nonrenewable resources,Science
+Nova,Science
+Patterns,Science
+Pest,Science
+Point source pollution,Science
+Radioactive isotope,Science
+Recycling,Science
+Regulation,Science
+Renewable,Science
+Risk management,Science
+Scale,Science
+Science,Science
+Shredder,Science
+Stream order,Science
+Succession,Science
+Sustainability,Science
+System,Science
+Closed Loop system,Science
+Open Loop system,Science
+Subsystem,Science
+Technological design,Science
+process,Science
+Technology education,Science
+Theory of evolution,Science
+Theory,Science
+Tool,Science
+Topographic map,Science
+Transportation systems,Science
+Transportation,Science
+technology,Science
+Trophic levels,Science
+Waste Stream,Science
+Watershed,Science
+Wetlands,Science
+absorb,Science
+acceleration,Science
+acid rain,Science
+action,Science
+adapt,Science
+adaptation,Science
+adjust,Science
+adult,Science
+advantage,Science
+affect,Science
+air mass,Science
+air pressure,Science
+air resistance,Science
+alternate,Science
+alto,Science
+amount,Science
+amphibian,Science
+amplitude,Science
+analyze,Science
+anatomy,Science
+ancestor,Science
+ancient,Science
+anemometer,Science
+angle,Science
+Animalia,Science
+antibiotic,Science
+antibody,Science
+appliance,Science
+apply,Science
+appropriate,Science
+approximately,Science
+arrange,Science
+artery,Science
+arthropod,Science
+asexual,Science
+assemble,Science
+asteroid,Science
+astronomer,Science
+atmosphere,Science
+atom,Science
+atomic number,Science
+attract,Science
+automatic,Science
+available,Science
+axis,Science
+bacteria,Science
+balance,Science
+balanced forces,Science
+bar graph,Science
+bare,Science
+barometer,Science
+battery,Science
+bed,Science
+behavior,Science
+beneficial,Science
+benefit,Science
+best,Science
+big bang,Science
+binary fission,Science
+biomass,Science
+bird,Science
+blink,Science
+blizzard,Science
+block,Science
+blood tissue,Science
+blood vessel,Science
+blossom,Science
+boil,Science
+boiling point,Science
+bone tissue,Science
+bounce,Science
+brain,Science
+bronchi,Science
+bundle,Science
+buoyant force,Science
+calcium,Science
+calculator,Science
+calorie,Science
+camera,Science
+camouflage,Science
+cancer,Science
+capillary,Science
+capture,Science
+carbohydrate,Science
+carbon ( C ),Science
+carbon dioxide (CO2),Science
+cardiovascular system,Science
+carnivore,Science
+category,Science
+caterpillar,Science
+cell,Science
+cell cycle,Science
+cell division,Science
+cell membrane,Science
+cell wall,Science
+cellular respiration,Science
+Celsius (oC),Science
+cement,Science
+centimeter (cm),Science
+central nervous    system,Science
+change,Science
+change of direction,Science
+change of motion,Science
+change of speed,Science
+characteristic,Science
+chemical,Science
+chemical bond,Science
+chemical change,Science
+chemical energy,Science
+chemical equation,Science
+chemical property,Science
+chemical reaction,Science
+chemical system,Science
+chemical weathering,Science
+chlorophyll,Science
+chloroplast,Science
+choose,Science
+chromosome,Science
+cinder cone volcano,Science
+circuit,Science
+circulatory system,Science
+cirro-,Science
+cirrus cloud,Science
+classification,Science
+classify,Science
+climate,Science
+cloning,Science
+cloud,Science
+coal,Science
+code,Science
+cold front,Science
+collect,Science
+collide,Science
+color,Science
+column,Science
+comet,Science
+comfortable,Science
+community,Science
+compare,Science
+compass,Science
+competition,Science
+complex carbohydrate,Science
+compose,Science
+composite volcano,Science
+composition,Science
+compost pile,Science
+compound,Science
+compound microscope,Science
+compress,Science
+compression,Science
+computer,Science
+conclude,Science
+conclusion,Science
+condensation,Science
+condense,Science
+condition,Science
+conduct,Science
+conduction,Science
+conductors,Science
+consequences,Science
+conservation,Science
+conservation of energy,Science
+conservation of mass,Science
+conserve,Science
+consist of,Science
+consistent,Science
+constant,Science
+contain,Science
+container,Science
+content,Science
+continent,Science
+contrast,Science
+control,Science
+controlled experiment,Science
+convection,Science
+coordinate,Science
+core,Science
+covalent bond,Science
+create,Science
+crest,Science
+crop,Science
+crust,Science
+crystal,Science
+crystallization,Science
+cubic,Science
+cubic centimeter,Science
+cure,Science
+cycle,Science
+cytoplasm,Science
+dam,Science
+data,Science
+data table,Science
+daughter cell,Science
+decay,Science
+decrease,Science
+defend,Science
+deficient,Science
+define,Science
+definite,Science
+delta,Science
+density,Science
+dependent variable,Science
+deposition,Science
+derived,Science
+descend,Science
+describe,Science
+desert,Science
+design,Science
+develop,Science
+development,Science
+diagram,Science
+dichotomous key,Science
+digest,Science
+digestive system,Science
+directly,Science
+disappearing trait,Science
+discuss,Science
+disperse,Science
+dissolve,Science
+distance,Science
+distinctive,Science
+distribute,Science
+disturb,Science
+diversity,Science
+DNA,Science
+dominant gene,Science
+draw,Science
+dump,Science
+earthquake,Science
+earthworm,Science
+echo,Science
+eclipse,Science
+ecological succession,Science
+ecology,Science
+effect,Science
+efficient,Science
+egg,Science
+electric current,Science
+electrical energy,Science
+electricity,Science
+electromagnet,Science
+electromagnetic spectrum,Science
+electromagnetic wave,Science
+electromagnetism,Science
+electron,Science
+elements,Science
+elevation,Science
+elliptical,Science
+emit,Science
+endothermic,Science
+energy,Science
+energy resources,Science
+ensure,Science
+environmental changes,Science
+epithelial,Science
+equal,Science
+equation,Science
+equator,Science
+erosion,Science
+error,Science
+esophagus,Science
+establish,Science
+estimate,Science
+estimation,Science
+eukaryotic,Science
+evaporate,Science
+evaporation,Science
+excrete,Science
+exoskeleton,Science
+exothermic,Science
+experiment,Science
+explanation,Science
+express,Science
+external,Science
+extinct,Science
+factor,Science
+Fahrenheit (oF),Science
+fat,Science
+fault,Science
+feature,Science
+features,Science
+fertilization,Science
+fertilizer,Science
+fiber,Science
+fish,Science
+fixed pulley,Science
+flood,Science
+flower,Science
+fluid,Science
+food,Science
+food chain,Science
+food web,Science
+force,Science
+forecast,Science
+former,Science
+formula,Science
+fossil,Science
+fossil fuel,Science
+freezing point,Science
+frequency,Science
+friction,Science
+front,Science
+fruit,Science
+fuel,Science
+filter,Science
+fulcrum,Science
+Fungi,Science
+galaxy,Science
+garbage,Science
+gas,Science
+gas giants,Science
+gem,Science
+gene,Science
+generation,Science
+generator,Science
+genetic engineering,Science
+genetic material,Science
+genetic variation,Science
+geologist,Science
+geothermal energy,Science
+germ,Science
+germination,Science
+glacier,Science
+gland,Science
+global,Science
+global climate,Science
+global warming,Science
+graduated cylinder,Science
+gram (g),Science
+graph,Science
+gravitational,Science
+gravity,Science
+greatest,Science
+greenhouse gas,Science
+group,Science
+habit,Science
+habitat,Science
+hand lens,Science
+hardness,Science
+harmful,Science
+healthy habit,Science
+heart,Science
+heart muscle,Science
+heat,Science
+heat energy,Science
+herbivore,Science
+hereditary,Science
+hibernation,Science
+hormone,Science
+host,Science
+humid,Science
+humidity,Science
+hurricane,Science
+hydroelectric power,Science
+hygrometer,Science
+identify,Science
+identical,Science
+igneous,Science
+igneous rock,Science
+illuminate,Science
+illustrate,Science
+immune system,Science
+inclined plane,Science
+increase,Science
+indicate,Science
+individual,Science
+infection,Science
+information,Science
+ingredient,Science
+inherit,Science
+inherited adaptation,Science
+inherited trait,Science
+insect,Science
+insulator,Science
+interact,Science
+internal,Science
+inversion,Science
+invertebrate,Science
+ion,Science
+ionic bond,Science
+iron (Fe),Science
+irregular,Science
+isoline,Science
+jellyfish,Science
+joint,Science
+kilogram (kg),Science
+kiloliter (kl),Science
+kilometer (km),Science
+kinetic energy,Science
+kingdom,Science
+knowledge,Science
+label,Science
+landslide,Science
+large intestine,Science
+larva,Science
+laser,Science
+latitude,Science
+lava,Science
+layer,Science
+leaf,Science
+learned,Science
+learned adaptation,Science
+least,Science
+levee,Science
+lever,Science
+life cycle,Science
+life span,Science
+lift,Science
+light,Science
+light-year,Science
+line graph,Science
+lines of force,Science
+link,Science
+liquid,Science
+list,Science
+liter (L),Science
+liver,Science
+location,Science
+longitudinal wave,Science
+loudness,Science
+lunar eclipse,Science
+lungs,Science
+luster,Science
+machine,Science
+magma,Science
+magnet,Science
+magnetic field,Science
+magnetic force,Science
+magnetism,Science
+magnifier,Science
+maintain,Science
+major,Science
+mammal,Science
+manage,Science
+mantle,Science
+mass,Science
+material,Science
+materials scientist,Science
+matter,Science
+measure,Science
+mechanical energy,Science
+mechanical weathering,Science
+medium,Science
+meiosis,Science
+melting point,Science
+metal,Science
+metallic bond,Science
+metalloid,Science
+metamorphic,Science
+metamorphic rock,Science
+metamorphosis,Science
+meter (m),Science
+meter stick,Science
+method,Science
+metric ruler,Science
+microscope,Science
+mid-ocean ridge,Science
+migration,Science
+Milky Way,Science
+milligram (mg),Science
+milliliter (mL),Science
+millimeter (mm),Science
+mineral,Science
+mitochondria,Science
+mixture,Science
+moisture,Science
+molecule,Science
+mollusk,Science
+Monera,Science
+monoculture,Science
+moon,Science
+motion,Science
+motor,Science
+mountain,Science
+mouth,Science
+movable pulley,Science
+mucus,Science
+muscle,Science
+muscle tissue,Science
+muscular system,Science
+mutation,Science
+muticellular,Science
+natural gas,Science
+natural resource,Science
+natural selection,Science
+nebula,Science
+negative,Science
+nervous system,Science
+net force,Science
+neuron,Science
+neutral,Science
+neutron,Science
+Newton,Science
+niche,Science
+nimbus,Science
+nitrogen,Science
+noble gas,Science
+nonmetal,Science
+nonrenewable,Science
+nonrenewable energy resource,Science
+nonrenewable resource,Science
+nose,Science
+nuclear energy,Science
+nuclear fusion,Science
+nucleus,Science
+nutrient,Science
+objective lens,Science
+observation,Science
+observe,Science
+obtained,Science
+occur,Science
+ocean,Science
+odor,Science
+offspring,Science
+omnivore,Science
+ooze,Science
+orbit,Science
+order,Science
+organ,Science
+organ system,Science
+organelle,Science
+organism,Science
+organize,Science
+original,Science
+ovary,Science
+overabundance,Science
+overcome,Science
+overpopulation,Science
+ovule,Science
+oxygen,Science
+ozone,Science
+parallel circuit,Science
+parasite,Science
+parent cell,Science
+particle,Science
+pattern,Science
+pedigree chart,Science
+perceive,Science
+"percent, percentage",Science
+period,Science
+periodic table,Science
+permanent magnet,Science
+pesticide,Science
+petroleum,Science
+phases,Science
+phenomena,Science
+phosphorus,Science
+photosynthesis,Science
+physical,Science
+physical change,Science
+physical property,Science
+physical weathering,Science
+pie chart,Science
+pie graph,Science
+pistil,Science
+pitch,Science
+planet,Science
+Plantae,Science
+plasma,Science
+plate,Science
+plate tectonics,Science
+poison,Science
+polar,Science
+pollen,Science
+pollinate,Science
+pollutant,Science
+pollution,Science
+positive,Science
+potential energy,Science
+precipitation,Science
+predator,Science
+predict,Science
+prediction,Science
+presence,Science
+preserve,Science
+pressure,Science
+prevailing winds,Science
+previous,Science
+prey,Science
+primary,Science
+probable,Science
+procedure,Science
+producer,Science
+prokaryotic,Science
+property,Science
+protect,Science
+protein,Science
+Protista,Science
+proton,Science
+provide,Science
+pulley,Science
+Punnett square,Science
+radiation,Science
+radioactive,Science
+radioisotope,Science
+rarefaction,Science
+rate,Science
+ray,Science
+react,Science
+reactant,Science
+rearrange,Science
+receive,Science
+recessive gene,Science
+record,Science
+rectum,Science
+recycle,Science
+reduce,Science
+refer,Science
+reflect,Science
+reflex,Science
+refract,Science
+refraction,Science
+relationship,Science
+relative humidity,Science
+release,Science
+remain the same,Science
+remains,Science
+renewable energy resource,Science
+renewable resource,Science
+represent,Science
+reproduce,Science
+reproduction,Science
+reptile,Science
+required,Science
+resist,Science
+resistant to,Science
+resource,Science
+respiration,Science
+respiratory system,Science
+respond,Science
+response,Science
+responsible,Science
+restore,Science
+result,Science
+reuse,Science
+reverse,Science
+revolution,Science
+revolve,Science
+rock,Science
+rock cycle,Science
+role,Science
+rotate,Science
+runoff,Science
+rust,Science
+saliva,Science
+salivate,Science
+scarce,Science
+scientific inquiry,Science
+scientific investigation,Science
+scientific law,Science
+scientific name,Science
+scientific thinking,Science
+scrape,Science
+screw,Science
+sea floor spreading,Science
+sea level,Science
+season,Science
+secondary,Science
+sediment,Science
+sedimentary rock,Science
+sedimentation,Science
+seed,Science
+seedling,Science
+seep,Science
+select,Science
+selective breeding,Science
+sense,Science
+sense organ,Science
+series circuit,Science
+settle,Science
+sewage,Science
+sex cell,Science
+sex cells,Science
+sexual,Science
+shape,Science
+shell,Science
+shield volcano,Science
+shiver,Science
+significant,Science
+simple machine,Science
+siren,Science
+situation,Science
+skeletal muscle,Science
+skeletal system,Science
+small intestine,Science
+smog,Science
+smooth muscle,Science
+soil,Science
+soil texture,Science
+solar cell,Science
+solar eclipse,Science
+solar energy,Science
+solar system,Science
+solid,Science
+solidification,Science
+solubility,Science
+solute,Science
+sound,Science
+sound recorder,Science
+source,Science
+space,Science
+specialize,Science
+species,Science
+specific,Science
+sperm,Science
+spill,Science
+spinal cord,Science
+sponge,Science
+spore,Science
+spring,Science
+spring scale,Science
+sprout,Science
+squint,Science
+stable,Science
+stages,Science
+stamen,Science
+star,Science
+starch,Science
+state,Science
+static charge,Science
+static electricity,Science
+stem,Science
+stigma,Science
+stimulus,Science
+stomach,Science
+stopwatch,Science
+strain,Science
+strategy,Science
+strato,Science
+stratus cloud,Science
+streak,Science
+structural adaptation,Science
+sublimation,Science
+subsoil,Science
+substance,Science
+sugar,Science
+sulfuric acid,Science
+supernova,Science
+survey,Science
+survival,Science
+"survive, survival",Science
+swamp,Science
+sweat,Science
+switch,Science
+table salt,Science
+tadpole,Science
+tape measure,Science
+telescope,Science
+temperate,Science
+temperature,Science
+temporary magnet,Science
+terrestrial planets,Science
+test,Science
+thermal energy,Science
+thermometer,Science
+thunderstorm,Science
+tide,Science
+tilt,Science
+tissue,Science
+topsoil,Science
+tornado,Science
+trachea,Science
+transfer,Science
+transform,Science
+transport,Science
+transport system,Science
+transverse wave,Science
+trench,Science
+trial,Science
+tropical,Science
+troposphere,Science
+trough,Science
+tumor,Science
+turbine,Science
+type,Science
+unbalanced forces,Science
+unequal,Science
+unicellular,Science
+unique,Science
+universe,Science
+unstable,Science
+vacuole,Science
+valley,Science
+vapor,Science
+variation,Science
+variety,Science
+vascular system,Science
+vascular tissue,Science
+vegetable,Science
+vehicle,Science
+vein,Science
+vertebrate,Science
+vibrate,Science
+virus,Science
+visible,Science
+visible light,Science
+vitamin,Science
+volcano,Science
+voltmeter,Science
+warm,Science
+water,Science
+water cycle,Science
+water vapor,Science
+weathering,Science
+wedge,Science
+weight,Science
+wheel and axle,Science
+white blood cell,Science
+wind,Science
+wind vane,Science
+wise,Science
+work,Science
+zone,Science
+zygote,Science
+absorption spectrum,Science
+accuracy,Science
+acid/base reaction,Science
+acids,Science
+alpha radiation,Science
+anion,Science
+atomic mass unit (AMU),Science
+atomic nucleus,Science
+base,Science
+base/acid reaction,Science
+beta radiation,Science
+binding energy,Science
+cations,Science
+chemical bonds,Science
+chemical precipitation,Science
+coefficient,Science
+combustion reaction,Science
+compression/longitudinal waves,Science
+concentration,Science
+conductor,Science
+Coulomb's law,Science
+current,Science
+decomposition reaction,Science
+diffraction,Science
+dispersion,Science
+dispersion forces,Science
+effervescence,Science
+electromagnetic force,Science
+electromagnetic radiation,Science
+electron configuration,Science
+electronegativity,Science
+emission spectrum,Science
+energy level,Science
+entropy,Science
+first law of thermodynamics,Science
+first order rate,Science
+frequency ,Science
+fundamental force,Science
+gamma radiation,Science
+gravitational force,Science
+gravitational potential energy,Science
+ground state,Science
+hydrogen bonding,Science
+induced dipole interaction,Science
+inhibitor,Science
+interference,Science
+intermolecular attraction,Science
+ionic compound,Science
+isotopes,Science
+law of conservation of matter and energy,Science
+longitudinal/compression waves,Science
+mass number,Science
+molar mass,Science
+mole,Science
+molecular compound,Science
+momentum,Science
+negative charge,Science
+neutral charge,Science
+Newton's 1st law,Science
+Newton's 2nd law,Science
+Newton's 3rd law,Science
+nonpolar bond,Science
+nuclear equation,Science
+nucleon,Science
+Ohm's law,Science
+oxidation,Science
+permanent dipole interaction,Science
+pH,Science
+physical properties,Science
+pOH,Science
+polar bond,Science
+positive charge,Science
+precise,Science
+precision,Science
+principle energy levels,Science
+radioactive isotopes,Science
+"replacement reaction, double",Science
+"replacement reaction, single",Science
+resistance,Science
+salt,Science
+scientific investigations,Science
+second law of thermodynamics,Science
+Snell's law,Science
+stable electron configuration,Science
+stoichiometry,Science
+strong nuclear force,Science
+subatomic particles,Science
+subshell,Science
+synthesis reactions,Science
+testable hypothesis,Science
+titration,Science
+torque,Science
+transition elements,Science
+transverse waves,Science
+valence electrons,Science
+wave,Science
+wavelength ,Science
+weak nuclear force,Science
+Acquired,Science
+Adaptation (Animal),Science
+Affected,Science
+Alcohol,Science
+Animals,Science
+Application (see apply),Science
+Availability,Science
+Balanced diet,Science
+Beginning,Science
+Behaviors,Science
+Blinking,Science
+Body fat,Science
+Breath,Science
+Bulb,Science
+Burning,Science
+Chemical Changes,Science
+Characteristics,Science
+Claws,Science
+Closed Circuit,Science
+Cloudy,Science
+Combining,Science
+Communicating,Science
+Compete,Science
+Components,Science
+Convert,Science
+Cultivating,Science
+Cycles,Science
+Decisions,Science
+Decreases,Science
+Defense Mechanism,Science
+Depend,Science
+Direction,Science
+Distances,Science
+Earth,Science
+Earthquakes,Science
+Electric Cell,Science
+Electric Field,Science
+Eliminate,Science
+Enable,Science
+Energy Pyramid,Science
+Engaging,Science
+Exist,Science
+Fur,Science
+Germinate,Science
+Gills,Science
+Graduated cylinders,Science
+Grow,Science
+Hand lenses,Science
+Heart rate,Science
+Hibernate,Science
+Hurricanes,Science
+Illicit drugs,Science
+Impact,Science
+Inclined planes,Science
+Increases,Science
+Influence,Science
+Interaction,Science
+Land,Science
+Length,Science
+Life Processes,Science
+Light Year,Science
+Limbs,Science
+Magnet/Magnetic,Science
+Mature,Science
+Mealworms,Science
+Mechanical,Science
+Mechanism,Science
+Movement,Science
+Naturally occurring,Science
+Non-living,Science
+Nutrients,Science
+Observable Characteristics,Science
+Operate,Science
+Parent,Science
+A minute quantity or  small/tiny fragment.,Science
+Perspiration,Science
+Profound,Science
+Properties of Air,Science
+Pupa,Science
+Rain,Science
+Reactivity,Science
+Related,Science
+Released,Science
+Repel,Science
+Rubbing,Science
+Scales,Science
+Seasonally,Science
+Shed,Science
+Shells,Science
+Shelter,Science
+Shivering,Science
+Sink/float,Science
+Sleet,Science
+Snow /Hail,Science
+Spine,Science
+Stalk,Science
+Stars,Science
+Sun,Science
+Supply,Science
+Surroundings,Science
+Texture,Science
+Thrive,Science
+Tobacco,Science
+Tornadoes,Science
+Trunks,Science
+Utilize,Science
+Variations,Science
+Vital role,Science
+Waste,Science
+Width,Science

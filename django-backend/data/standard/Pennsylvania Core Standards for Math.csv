@@ -1,0 +1,413 @@
+Standard,Subject,Grade,Strand,Standard Number,Description
+PA Core - Mathematics,Math,PreK,Numbers and Operations,CC.2.1.PreK.A.1,Know number names and the count sequence.
+PA Core - Mathematics,Math,PreK,Numbers and Operations,CC.2.1.PreK.A.2,Count to tell the number of objects.
+PA Core - Mathematics,Math,PreK,Numbers and Operations,CC.2.1.PreK.A.3,Compare numbers.
+PA Core - Mathematics,Math,K,Numbers and Operations,CC.2.1.K.A.1,Know number names and write and recite the count sequence.
+PA Core - Mathematics,Math,K,Numbers and Operations,CC.2.1.K.A.2,Apply one-to-one correspondence to count the number of objects.
+PA Core - Mathematics,Math,K,Numbers and Operations,CC.2.1.K.A.3,Apply the concept of magnitude to compare numbers and quantities.
+PA Core - Mathematics,Math,K,Numbers and Operations,CC.2.1.K.B.1,Use place value to compose and decompose numbers within 19.
+PA Core - Mathematics,Math,1,Numbers and Operations,CC.2.1.1.B.1,Extend the counting sequence to read and write numerals to represent objects.
+PA Core - Mathematics,Math,1,Numbers and Operations,CC.2.1.1.B.2,Use place-value concepts to represent amounts of tens and ones and to compare two digit numbers.
+PA Core - Mathematics,Math,1,Numbers and Operations,CC.2.1.1.B.3,Use place-value concepts and properties of operations to add and subtract within 100.
+PA Core - Mathematics,Math,2,Numbers and Operations,CC.2.1.2.B.1,Use place-value concepts to represent amounts of tens and ones and to compare three digit numbers.
+PA Core - Mathematics,Math,2,Numbers and Operations,CC.2.1.2.B.2,"Use place-value concepts to read, write, and skip count to 1000."
+PA Core - Mathematics,Math,2,Numbers and Operations,CC.2.1.2.B.3,Use place-value understanding and properties of operations to add and subtract within 1000.
+PA Core - Mathematics,Math,3,Numbers and Operations,CC.2.1.3.B.1,Apply place-value understanding and properties of operations to perform multi-digit arithmetic.
+PA Core - Mathematics,Math,4,Numbers and Operations,CC.2.1.4.B.1,Apply place-value concepts to show an understanding of multi-digit whole numbers.
+PA Core - Mathematics,Math,4,Numbers and Operations,CC.2.1.4.B.2,Use place-value understanding and properties of operations to perform multi-digit arithmetic.
+PA Core - Mathematics,Math,5,Numbers and Operations,CC.2.1.5.B.1,Apply place-value concepts to show an understanding of operations and rounding as they pertain to whole numbers and decimals.
+PA Core - Mathematics,Math,5,Numbers and Operations,CC.2.1.5.B.2,Extend an understanding of operations with whole numbers to perform operations including decimals.
+PA Core - Mathematics,Math,3,Numbers and Operations,CC.2.1.3.C.1,Explore and develop an understanding of fractions as numbers.
+PA Core - Mathematics,Math,4,Numbers and Operations,CC.2.1.4.C.1,Extend the understanding of fractions to show equivalence and ordering.
+PA Core - Mathematics,Math,4,Numbers and Operations,CC.2.1.4.C.2,Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.
+PA Core - Mathematics,Math,4,Numbers and Operations,CC.2.1.4.C.3,"Connect decimal notation to fractions, and compare decimal fractions (base 10 denominator, e.g., 19/100)."
+PA Core - Mathematics,Math,5,Numbers and Operations,CC.2.1.5.C.1,Use the understanding of equivalency to add and subtract fractions.
+PA Core - Mathematics,Math,5,Numbers and Operations,CC.2.1.5.C.2,Apply and extend previous understandings of multiplication and division to multiply and divide fractions.
+PA Core - Mathematics,Math,6,Numbers and Operations,CC.2.1.6.D.1,Understand ratio concepts and use ratio reasoning to solve problems.
+PA Core - Mathematics,Math,7,Numbers and Operations,CC.2.1.7.D.1,Analyze proportional relationships and use them to model and solve real-world and mathematical problems.
+PA Core - Mathematics,Math,6,Numbers and Operations,CC.2.1.6.E.1,Apply and extend previous understandings of multiplication and division to divide fractions by fractions.
+PA Core - Mathematics,Math,6,Numbers and Operations,CC.2.1.6.E.2,Identify and choose appropriate processes to compute fluently with multi-digit numbers.
+PA Core - Mathematics,Math,6,Numbers and Operations,CC.2.1.6.E.3,Develop and/or apply number theory concepts to find common factors and multiples.
+PA Core - Mathematics,Math,6,Numbers and Operations,CC.2.1.6.E.4,Apply and extend previous understandings of numbers to the system of rational numbers.
+PA Core - Mathematics,Math,7,Numbers and Operations,CC.2.1.7.E.1,Apply and extend previous understandings of operations with fractions to operations with rational numbers.
+PA Core - Mathematics,Math,8,Numbers and Operations,CC.2.1.8.E.1,Distinguish between rational and irrational numbers using their properties.
+PA Core - Mathematics,Math,8,Numbers and Operations,CC.2.1.8.E.4,Estimate irrational numbers by comparing them to rational numbers.
+PA Core - Mathematics,Math,9,Numbers and Operations,CC.2.1.HS.F.1,Apply and extend the properties of exponents to solve problems with rational exponents.
+PA Core - Mathematics,Math,10,Numbers and Operations,CC.2.1.HS.F.1,Apply and extend the properties of exponents to solve problems with rational exponents.
+PA Core - Mathematics,Math,11,Numbers and Operations,CC.2.1.HS.F.1,Apply and extend the properties of exponents to solve problems with rational exponents.
+PA Core - Mathematics,Math,12,Numbers and Operations,CC.2.1.HS.F.1,Apply and extend the properties of exponents to solve problems with rational exponents.
+PA Core - Mathematics,Math,9,Numbers and Operations,CC.2.1.HS.F.2,Apply properties of rational and irrational numbers to solve real world or mathematical problems.
+PA Core - Mathematics,Math,10,Numbers and Operations,CC.2.1.HS.F.2,Apply properties of rational and irrational numbers to solve real world or mathematical problems.
+PA Core - Mathematics,Math,11,Numbers and Operations,CC.2.1.HS.F.2,Apply properties of rational and irrational numbers to solve real world or mathematical problems.
+PA Core - Mathematics,Math,12,Numbers and Operations,CC.2.1.HS.F.2,Apply properties of rational and irrational numbers to solve real world or mathematical problems.
+PA Core - Mathematics,Math,9,Numbers and Operations,CC.2.1.HS.F.3,"Apply quantitative reasoning to choose and interpret units and scales in formulas, graphs, and data displays."
+PA Core - Mathematics,Math,10,Numbers and Operations,CC.2.1.HS.F.3,"Apply quantitative reasoning to choose and interpret units and scales in formulas, graphs, and data displays."
+PA Core - Mathematics,Math,11,Numbers and Operations,CC.2.1.HS.F.3,"Apply quantitative reasoning to choose and interpret units and scales in formulas, graphs, and data displays."
+PA Core - Mathematics,Math,12,Numbers and Operations,CC.2.1.HS.F.3,"Apply quantitative reasoning to choose and interpret units and scales in formulas, graphs, and data displays."
+PA Core - Mathematics,Math,9,Numbers and Operations,CC.2.1.HS.F.4,Use units as a way to understand problems and to guide the solution of multi-step problems.
+PA Core - Mathematics,Math,10,Numbers and Operations,CC.2.1.HS.F.4,Use units as a way to understand problems and to guide the solution of multi-step problems.
+PA Core - Mathematics,Math,11,Numbers and Operations,CC.2.1.HS.F.4,Use units as a way to understand problems and to guide the solution of multi-step problems.
+PA Core - Mathematics,Math,12,Numbers and Operations,CC.2.1.HS.F.4,Use units as a way to understand problems and to guide the solution of multi-step problems.
+PA Core - Mathematics,Math,9,Numbers and Operations,CC.2.1.HS.F.5,Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
+PA Core - Mathematics,Math,10,Numbers and Operations,CC.2.1.HS.F.5,Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
+PA Core - Mathematics,Math,11,Numbers and Operations,CC.2.1.HS.F.5,Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
+PA Core - Mathematics,Math,12,Numbers and Operations,CC.2.1.HS.F.5,Choose a level of accuracy appropriate to limitations on measurement when reporting quantities.
+PA Core - Mathematics,Math,9,Numbers and Operations,CC.2.1.HS.F.6,Extend the knowledge of arithmetic operations and apply to complex numbers.
+PA Core - Mathematics,Math,10,Numbers and Operations,CC.2.1.HS.F.6,Extend the knowledge of arithmetic operations and apply to complex numbers.
+PA Core - Mathematics,Math,11,Numbers and Operations,CC.2.1.HS.F.6,Extend the knowledge of arithmetic operations and apply to complex numbers.
+PA Core - Mathematics,Math,12,Numbers and Operations,CC.2.1.HS.F.6,Extend the knowledge of arithmetic operations and apply to complex numbers.
+PA Core - Mathematics,Math,9,Numbers and Operations,CC.2.1.HS.F.7,Apply concepts of complex numbers in polynomial identities and quadratic equations to solve problems.
+PA Core - Mathematics,Math,10,Numbers and Operations,CC.2.1.HS.F.7,Apply concepts of complex numbers in polynomial identities and quadratic equations to solve problems.
+PA Core - Mathematics,Math,11,Numbers and Operations,CC.2.1.HS.F.7,Apply concepts of complex numbers in polynomial identities and quadratic equations to solve problems.
+PA Core - Mathematics,Math,12,Numbers and Operations,CC.2.1.HS.F.7,Apply concepts of complex numbers in polynomial identities and quadratic equations to solve problems.
+PA Core - Mathematics,Math,PreK,Algebraic Concepts,CC.2.2.PreK.A.1,"Understand addition as putting together and adding to, and understand subtraction as taking apart and taking from."
+PA Core - Mathematics,Math,K,Algebraic Concepts,CC.2.2.K.A.1,Extend the concepts of putting together and taking apart to add and subtract within 10.
+PA Core - Mathematics,Math,1,Algebraic Concepts,CC.2.2.1.A.1,Represent and solve problems involving addition and subtraction within 20.
+PA Core - Mathematics,Math,1,Algebraic Concepts,CC.2.2.1.A.2,Understand and apply properties of operations and the relationship between addition and subtraction.
+PA Core - Mathematics,Math,2,Algebraic Concepts,CC.2.2.2.A.1,Represent and solve problems involving addition and subtraction within 100.
+PA Core - Mathematics,Math,2,Algebraic Concepts,CC.2.2.2.A.2,Use mental strategies to add and subtract within 20.
+PA Core - Mathematics,Math,2,Algebraic Concepts,CC.2.2.2.A.3,Work with equal groups of objects to gain foundations for multiplication.
+PA Core - Mathematics,Math,3,Algebraic Concepts,CC.2.2.3.A.1,Represent and solve problems involving multiplication and division.
+PA Core - Mathematics,Math,3,Algebraic Concepts,CC.2.2.3.A.2,Understand properties of multiplication and the relationship between multiplication and division.
+PA Core - Mathematics,Math,3,Algebraic Concepts,CC.2.2.3.A.3,Demonstrate multiplication and division fluency.
+PA Core - Mathematics,Math,3,Algebraic Concepts,CC.2.2.3.A.4,"Solve problems involving the four operations, and identify and explain patterns in arithmetic."
+PA Core - Mathematics,Math,4,Algebraic Concepts,CC.2.2.4.A.1,Represent and solve problems involving the four operations.
+PA Core - Mathematics,Math,4,Algebraic Concepts,CC.2.2.4.A.2,Develop and/or apply number theory concepts to find factors and multiples.
+PA Core - Mathematics,Math,4,Algebraic Concepts,CC.2.2.4.A.4,Generate and analyze patterns using one rule.
+PA Core - Mathematics,Math,5,Algebraic Concepts,CC.2.2.5.A.1,Interpret and evaluate numerical expressions using order of operations.
+PA Core - Mathematics,Math,5,Algebraic Concepts,CC.2.2.5.A.4,Analyze patterns and relationships using two rules.
+PA Core - Mathematics,Math,6,Algebraic Concepts,CC.2.2.6.B.1,Apply and extend previous understandings of arithmetic to algebraic expressions.
+PA Core - Mathematics,Math,6,Algebraic Concepts,CC.2.2.6.B.2,Understand the process of solving a one-variable equation or inequality and apply it to real-world and mathematical problems.
+PA Core - Mathematics,Math,6,Algebraic Concepts,CC.2.2.6.B.3,Represent and analyze quantitative relationships between dependent and independent variables.
+PA Core - Mathematics,Math,7,Algebraic Concepts,CC.2.2.7.B.1,Apply properties of operations to generate equivalent expressions.
+PA Core - Mathematics,Math,7,Algebraic Concepts,CC.2.2.7.B.3,"Model and solve real-world and mathematical problems by using and connecting numerical, algebraic, and/or graphical representations."
+PA Core - Mathematics,Math,8,Algebraic Concepts,CC.2.2.8.B.1,Apply concepts of radicals and integer exponents to generate equivalent expressions.
+PA Core - Mathematics,Math,8,Algebraic Concepts,CC.2.2.8.B.2,"Understand the connections between proportional relationships, lines, and linear equations."
+PA Core - Mathematics,Math,8,Algebraic Concepts,CC.2.2.8.B.3,Analyze and solve linear equations and pairs of simultaneous linear equations.
+PA Core - Mathematics,Math,8,Algebraic Concepts,CC.2.2.8.C.1,"Define, evaluate, and compare functions."
+PA Core - Mathematics,Math,8,Algebraic Concepts,CC.2.2.8.C.2,Use concepts of functions to model relationships between quantities.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.C.1,Use the concept and notation of functions to interpret and apply them in terms of their context.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.C.1,Use the concept and notation of functions to interpret and apply them in terms of their context.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.C.1,Use the concept and notation of functions to interpret and apply them in terms of their context.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.C.1,Use the concept and notation of functions to interpret and apply them in terms of their context.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.C.2,Graph and analyze functions and use their properties to make connections between the different representations.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.C.2,Graph and analyze functions and use their properties to make connections between the different representations.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.C.2,Graph and analyze functions and use their properties to make connections between the different representations.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.C.2,Graph and analyze functions and use their properties to make connections between the different representations.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.C.3,Write functions or sequences that model relationships between two quantities.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.C.3,Write functions or sequences that model relationships between two quantities.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.C.3,Write functions or sequences that model relationships between two quantities.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.C.3,Write functions or sequences that model relationships between two quantities.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.C.4,Interpret the effects transformations have on functions and find the inverses of functions.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.C.4,Interpret the effects transformations have on functions and find the inverses of functions.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.C.4,Interpret the effects transformations have on functions and find the inverses of functions.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.C.4,Interpret the effects transformations have on functions and find the inverses of functions.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.C.5,"Construct and compare linear, quadratic, and exponential models to solve problems."
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.C.5,"Construct and compare linear, quadratic, and exponential models to solve problems."
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.C.5,"Construct and compare linear, quadratic, and exponential models to solve problems."
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.C.5,"Construct and compare linear, quadratic, and exponential models to solve problems."
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.C.6,Interpret functions in terms of the situations they model.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.C.6,Interpret functions in terms of the situations they model.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.C.6,Interpret functions in terms of the situations they model.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.C.6,Interpret functions in terms of the situations they model.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.C.7,Apply radian measure of an angle and the unit circle to analyze the trigonometric functions.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.C.7,Apply radian measure of an angle and the unit circle to analyze the trigonometric functions.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.C.7,Apply radian measure of an angle and the unit circle to analyze the trigonometric functions.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.C.7,Apply radian measure of an angle and the unit circle to analyze the trigonometric functions.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.C.8,Choose trigonometric functions to model periodic phenomena and describe the properties of the graphs.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.C.8,Choose trigonometric functions to model periodic phenomena and describe the properties of the graphs.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.C.8,Choose trigonometric functions to model periodic phenomena and describe the properties of the graphs.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.C.8,Choose trigonometric functions to model periodic phenomena and describe the properties of the graphs.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.C.9,Prove the Pythagorean identity and use it to calculate trigonometric ratios.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.C.9,Prove the Pythagorean identity and use it to calculate trigonometric ratios.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.C.9,Prove the Pythagorean identity and use it to calculate trigonometric ratios.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.C.9,Prove the Pythagorean identity and use it to calculate trigonometric ratios.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.1,Interpret the structure of expressions to represent a quantity in terms of its context.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.1,Interpret the structure of expressions to represent a quantity in terms of its context.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.1,Interpret the structure of expressions to represent a quantity in terms of its context.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.1,Interpret the structure of expressions to represent a quantity in terms of its context.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.2,Write expressions in equivalent forms to solve problems.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.2,Write expressions in equivalent forms to solve problems.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.2,Write expressions in equivalent forms to solve problems.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.2,Write expressions in equivalent forms to solve problems.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.3,Extend the knowledge of arithmetic operations and apply to polynomials.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.3,Extend the knowledge of arithmetic operations and apply to polynomials.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.3,Extend the knowledge of arithmetic operations and apply to polynomials.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.3,Extend the knowledge of arithmetic operations and apply to polynomials.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.4,Understand the relationship between zeros and factors of polynomials to make generalizations about functions and their graphs.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.4,Understand the relationship between zeros and factors of polynomials to make generalizations about functions and their graphs.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.4,Understand the relationship between zeros and factors of polynomials to make generalizations about functions and their graphs.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.4,Understand the relationship between zeros and factors of polynomials to make generalizations about functions and their graphs.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.5,Use polynomial identities to solve problems.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.5,Use polynomial identities to solve problems.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.5,Use polynomial identities to solve problems.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.5,Use polynomial identities to solve problems.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.6,Extend the knowledge of rational functions to rewrite in equivalent forms.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.6,Extend the knowledge of rational functions to rewrite in equivalent forms.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.6,Extend the knowledge of rational functions to rewrite in equivalent forms.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.6,Extend the knowledge of rational functions to rewrite in equivalent forms.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.7,Create and graph equations or inequalities to describe numbers or relationships.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.7,Create and graph equations or inequalities to describe numbers or relationships.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.7,Create and graph equations or inequalities to describe numbers or relationships.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.7,Create and graph equations or inequalities to describe numbers or relationships.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.8,Apply inverse operations to solve equations or formulas for a given variable.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.8,Apply inverse operations to solve equations or formulas for a given variable.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.8,Apply inverse operations to solve equations or formulas for a given variable.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.8,Apply inverse operations to solve equations or formulas for a given variable.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.9,Use reasoning to solve equations and justify the solution method.
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.9,Use reasoning to solve equations and justify the solution method.
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.9,Use reasoning to solve equations and justify the solution method.
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.9,Use reasoning to solve equations and justify the solution method.
+PA Core - Mathematics,Math,9,Algebraic Concepts,CC.2.2.HS.D.10,"Represent, solve, and interpret equations/inequalities and systems of equations/inequalities algebraically and graphically."
+PA Core - Mathematics,Math,10,Algebraic Concepts,CC.2.2.HS.D.10,"Represent, solve, and interpret equations/inequalities and systems of equations/inequalities algebraically and graphically."
+PA Core - Mathematics,Math,11,Algebraic Concepts,CC.2.2.HS.D.10,"Represent, solve, and interpret equations/inequalities and systems of equations/inequalities algebraically and graphically."
+PA Core - Mathematics,Math,12,Algebraic Concepts,CC.2.2.HS.D.10,"Represent, solve, and interpret equations/inequalities and systems of equations/inequalities algebraically and graphically."
+PA Core - Mathematics,Math,PreK,Geometry,CC.2.3.PreK.A.1,Identify and describe shapes.
+PA Core - Mathematics,Math,PreK,Geometry,CC.2.3.PreK.A.2,"Analyze, compare, create, and compose shapes."
+PA Core - Mathematics,Math,K,Geometry,CC.2.3.K.A.1,Identify and describe two- and three-dimensional shapes.
+PA Core - Mathematics,Math,K,Geometry,CC.2.3.K.A.2,"Analyze, compare, create, and compose two- and three-dimensional shapes."
+PA Core - Mathematics,Math,1,Geometry,CC.2.3.1.A.1,Compose and distinguish between two- and three-dimensional shapes based on their attributes.
+PA Core - Mathematics,Math,1,Geometry,CC.2.3.1.A.2,Use the understanding of fractions to partition shapes into halves and quarters.
+PA Core - Mathematics,Math,2,Geometry,CC.2.3.2.A.1,Analyze and draw two- and three-dimensional shapes having specified attributes.
+PA Core - Mathematics,Math,2,Geometry,CC.2.3.2.A.2,"Use the understanding of fractions to partition shapes into halves, quarters, and thirds."
+PA Core - Mathematics,Math,3,Geometry,CC.2.3.3.A.1,"Identify, compare, and classify shapes and their attributes."
+PA Core - Mathematics,Math,3,Geometry,CC.2.3.3.A.2,Use the understanding of fractions to partition shapes into parts with equal areas and express the area of each part as a unit fraction of the whole.
+PA Core - Mathematics,Math,4,Geometry,CC.2.3.4.A.1,Draw lines and angles and identify these in two-dimensional figures.
+PA Core - Mathematics,Math,4,Geometry,CC.2.3.4.A.2,Classify two-dimensional figures by properties of their lines and angles.
+PA Core - Mathematics,Math,4,Geometry,CC.2.3.4.A.3,Recognize symmetric shapes and draw lines of symmetry.
+PA Core - Mathematics,Math,5,Geometry,CC.2.3.5.A.1,Graph points in the first quadrant on the coordinate plane and interpret these points when solving real world and mathematical problems.
+PA Core - Mathematics,Math,5,Geometry,CC.2.3.5.A.2,Classify two-dimensional figures into categories based on an understanding of their properties.
+PA Core - Mathematics,Math,6,Geometry,CC.2.3.6.A.1,"Apply appropriate tools to solve real-world and mathematical problems involving area, surface area, and volume."
+PA Core - Mathematics,Math,7,Geometry,CC.2.3.7.A.1,"Solve real-world and mathematical problems involving angle measure, area, surface area, circumference, and volume."
+PA Core - Mathematics,Math,7,Geometry,CC.2.3.7.A.2,Visualize and represent geometric figures and describe the relationships between them.
+PA Core - Mathematics,Math,8,Geometry,CC.2.3.8.A.1,"Apply the concepts of volume of cylinders, cones, and spheres to solve real-world and mathematical problems."
+PA Core - Mathematics,Math,8,Geometry,CC.2.3.8.A.2,"Understand and apply congruence, similarity, and geometric transformations using various tools."
+PA Core - Mathematics,Math,8,Geometry,CC.2.3.8.A.3,Understand and apply the Pythagorean Theorem to solve problems.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.1,Use geometric figures and their properties to represent transformations in the plane.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.1,Use geometric figures and their properties to represent transformations in the plane.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.1,Use geometric figures and their properties to represent transformations in the plane.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.1,Use geometric figures and their properties to represent transformations in the plane.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.2,Apply rigid transformations to determine and explain congruence.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.2,Apply rigid transformations to determine and explain congruence.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.2,Apply rigid transformations to determine and explain congruence.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.2,Apply rigid transformations to determine and explain congruence.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.3,Verify and apply geometric theorems as they relate to geometric figures.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.3,Verify and apply geometric theorems as they relate to geometric figures.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.3,Verify and apply geometric theorems as they relate to geometric figures.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.3,Verify and apply geometric theorems as they relate to geometric figures.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.4,Apply the concept of congruence to create geometric constructions.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.4,Apply the concept of congruence to create geometric constructions.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.4,Apply the concept of congruence to create geometric constructions.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.4,Apply the concept of congruence to create geometric constructions.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.5,Create justifications based on transformations to establish similarity of plane figures.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.5,Create justifications based on transformations to establish similarity of plane figures.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.5,Create justifications based on transformations to establish similarity of plane figures.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.5,Create justifications based on transformations to establish similarity of plane figures.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.6,Verify and apply theorems involving similarity as they relate to plane figures.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.6,Verify and apply theorems involving similarity as they relate to plane figures.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.6,Verify and apply theorems involving similarity as they relate to plane figures.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.6,Verify and apply theorems involving similarity as they relate to plane figures.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.7,Apply trigonometric ratios to solve problems involving right triangles.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.7,Apply trigonometric ratios to solve problems involving right triangles.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.7,Apply trigonometric ratios to solve problems involving right triangles.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.7,Apply trigonometric ratios to solve problems involving right triangles.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.8,Apply geometric theorems to verify properties of circles.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.8,Apply geometric theorems to verify properties of circles.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.8,Apply geometric theorems to verify properties of circles.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.8,Apply geometric theorems to verify properties of circles.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.9,Extend the concept of similarity to determine arc lengths and areas of sectors of circles.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.9,Extend the concept of similarity to determine arc lengths and areas of sectors of circles.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.9,Extend the concept of similarity to determine arc lengths and areas of sectors of circles.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.9,Extend the concept of similarity to determine arc lengths and areas of sectors of circles.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.10,Translate between the geometric description and the equation for a conic section.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.10,Translate between the geometric description and the equation for a conic section.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.10,Translate between the geometric description and the equation for a conic section.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.10,Translate between the geometric description and the equation for a conic section.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.11,Apply coordinate geometry to prove simple geometric theorems algebraically.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.11,Apply coordinate geometry to prove simple geometric theorems algebraically.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.11,Apply coordinate geometry to prove simple geometric theorems algebraically.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.11,Apply coordinate geometry to prove simple geometric theorems algebraically.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.12,Explain volume formulas and use them to solve problems.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.12,Explain volume formulas and use them to solve problems.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.12,Explain volume formulas and use them to solve problems.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.12,Explain volume formulas and use them to solve problems.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.13,Analyze relationships between two-dimensional and three-dimensional objects.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.13,Analyze relationships between two-dimensional and three-dimensional objects.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.13,Analyze relationships between two-dimensional and three-dimensional objects.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.13,Analyze relationships between two-dimensional and three-dimensional objects.
+PA Core - Mathematics,Math,9,Geometry,CC.2.3.HS.A.14,Apply geometric concepts to model and solve real world problems.
+PA Core - Mathematics,Math,10,Geometry,CC.2.3.HS.A.14,Apply geometric concepts to model and solve real world problems.
+PA Core - Mathematics,Math,11,Geometry,CC.2.3.HS.A.14,Apply geometric concepts to model and solve real world problems.
+PA Core - Mathematics,Math,12,Geometry,CC.2.3.HS.A.14,Apply geometric concepts to model and solve real world problems.
+PA Core - Mathematics,Math,PreK,"Measurement, Data, and Probability",CC.2.4.PreK.A.1,Describe and compare measurable attributes of length and weight of everyday objects.
+PA Core - Mathematics,Math,K,"Measurement, Data, and Probability",CC.2.4.K.A.1,"Describe and compare attributes of length, area, weight, and capacity of everyday objects."
+PA Core - Mathematics,Math,1,"Measurement, Data, and Probability",CC.2.4.1.A.1,Order lengths and measure them both indirectly and by repeating length units.
+PA Core - Mathematics,Math,1,"Measurement, Data, and Probability",CC.2.4.1.A.2,Tell and write time to the nearest half hour using both analog and digital clocks.
+PA Core - Mathematics,Math,2,"Measurement, Data, and Probability",CC.2.4.2.A.1,Measure and estimate lengths in standard units using appropriate tools.
+PA Core - Mathematics,Math,2,"Measurement, Data, and Probability",CC.2.4.2.A.2,Tell and write time to the nearest five minutes using both analog and digital clocks.
+PA Core - Mathematics,Math,2,"Measurement, Data, and Probability",CC.2.4.2.A.3,Solve problems and make change using coins and paper currency with appropriate symbols.
+PA Core - Mathematics,Math,3,"Measurement, Data, and Probability",CC.2.4.3.A.1,"Solve problems involving measurement and estimation of temperature, liquid volume, mass, and length."
+PA Core - Mathematics,Math,3,"Measurement, Data, and Probability",CC.2.4.3.A.2,Tell and write time to the nearest minute and solve problems by calculating time intervals.
+PA Core - Mathematics,Math,3,"Measurement, Data, and Probability",CC.2.4.3.A.3,Solve problems and make change involving money using a combination of coins and bills.
+PA Core - Mathematics,Math,4,"Measurement, Data, and Probability",CC.2.4.4.A.1,Solve problems involving measurement and conversions from a larger unit to a smaller unit.
+PA Core - Mathematics,Math,4,"Measurement, Data, and Probability",CC.2.4.4.A.2,Translate information from one type of data display to another.
+PA Core - Mathematics,Math,5,"Measurement, Data, and Probability",CC.2.4.5.A.1,Solve problems using conversions within a given measurement system.
+PA Core - Mathematics,Math,5,"Measurement, Data, and Probability",CC.2.4.5.A.2,Represent and interpret data using appropriate scale.
+PA Core - Mathematics,Math,PreK,"Measurement, Data, and Probability",CC.2.4.PreK.A.4,Classify objects and count the number of objects in each category.
+PA Core - Mathematics,Math,K,"Measurement, Data, and Probability",CC.2.4.K.A.4,Classify objects and count the number of objects in each category.
+PA Core - Mathematics,Math,1,"Measurement, Data, and Probability",CC.2.4.1.A.4,Represent and interpret data using tables/charts.
+PA Core - Mathematics,Math,2,"Measurement, Data, and Probability",CC.2.4.2.A.4,"Represent and interpret data using line plots, picture graphs, and bar graphs."
+PA Core - Mathematics,Math,2,"Measurement, Data, and Probability",CC.2.4.2.A.6,Extend the concepts of addition and subtraction to problems involving length.
+PA Core - Mathematics,Math,3,"Measurement, Data, and Probability",CC.2.4.3.A.4,"Represent and interpret data using tally charts, tables, pictographs, line plots, and bar graphs."
+PA Core - Mathematics,Math,3,"Measurement, Data, and Probability",CC.2.4.3.A.5,Determine the area of a rectangle and apply the concept to multiplication and to addition.
+PA Core - Mathematics,Math,3,"Measurement, Data, and Probability",CC.2.4.3.A.6,Solve problems involving perimeters of polygons and distinguish between linear and area measures.
+PA Core - Mathematics,Math,4,"Measurement, Data, and Probability",CC.2.4.4.A.4,Represent and interpret data involving fractions using information provided in a line plot.
+PA Core - Mathematics,Math,4,"Measurement, Data, and Probability",CC.2.4.4.A.6,Measure angles and use properties of adjacent angles to solve problems.
+PA Core - Mathematics,Math,5,"Measurement, Data, and Probability",CC.2.4.5.A.4,Solve problems involving computation of fractions using information provided in a line plot.
+PA Core - Mathematics,Math,5,"Measurement, Data, and Probability",CC.2.4.5.A.5,Apply concepts of volume to solve problems and relate volume to multiplication and to addition.
+PA Core - Mathematics,Math,6,"Measurement, Data, and Probability",CC.2.4.6.B.1,"Demonstrate an understanding of statistical variability by displaying, analyzing, and summarizing distributions."
+PA Core - Mathematics,Math,7,"Measurement, Data, and Probability",CC.2.4.7.B.1,Draw inferences about populations based on random sampling concepts.
+PA Core - Mathematics,Math,7,"Measurement, Data, and Probability",CC.2.4.7.B.2,Draw informal comparative inferences about two populations.
+PA Core - Mathematics,Math,7,"Measurement, Data, and Probability",CC.2.4.7.B.3,"Investigate chance processes and develop, use, and evaluate probability models."
+PA Core - Mathematics,Math,8,"Measurement, Data, and Probability",CC.2.4.8.B.1,Analyze and/or interpret bivariate data displayed in multiple representations.
+PA Core - Mathematics,Math,8,"Measurement, Data, and Probability",CC.2.4.8.B.2,Understand that patterns of association can be seen in bivariate data utilizing frequencies.
+PA Core - Mathematics,Math,9,"Measurement, Data, and Probability",CC.2.4.HS.B.1,"Summarize, represent, and interpret data on a single count or measurement variable."
+PA Core - Mathematics,Math,10,"Measurement, Data, and Probability",CC.2.4.HS.B.1,"Summarize, represent, and interpret data on a single count or measurement variable."
+PA Core - Mathematics,Math,11,"Measurement, Data, and Probability",CC.2.4.HS.B.1,"Summarize, represent, and interpret data on a single count or measurement variable."
+PA Core - Mathematics,Math,12,"Measurement, Data, and Probability",CC.2.4.HS.B.1,"Summarize, represent, and interpret data on a single count or measurement variable."
+PA Core - Mathematics,Math,9,"Measurement, Data, and Probability",CC.2.4.HS.B.2,"Summarize, represent, and interpret data on two categorical and quantitative variables."
+PA Core - Mathematics,Math,10,"Measurement, Data, and Probability",CC.2.4.HS.B.2,"Summarize, represent, and interpret data on two categorical and quantitative variables."
+PA Core - Mathematics,Math,11,"Measurement, Data, and Probability",CC.2.4.HS.B.2,"Summarize, represent, and interpret data on two categorical and quantitative variables."
+PA Core - Mathematics,Math,12,"Measurement, Data, and Probability",CC.2.4.HS.B.2,"Summarize, represent, and interpret data on two categorical and quantitative variables."
+PA Core - Mathematics,Math,9,"Measurement, Data, and Probability",CC.2.4.HS.B.3,Analyze linear models to make interpretations based on the data.
+PA Core - Mathematics,Math,10,"Measurement, Data, and Probability",CC.2.4.HS.B.3,Analyze linear models to make interpretations based on the data.
+PA Core - Mathematics,Math,11,"Measurement, Data, and Probability",CC.2.4.HS.B.3,Analyze linear models to make interpretations based on the data.
+PA Core - Mathematics,Math,12,"Measurement, Data, and Probability",CC.2.4.HS.B.3,Analyze linear models to make interpretations based on the data.
+PA Core - Mathematics,Math,9,"Measurement, Data, and Probability",CC.2.4.HS.B.4,Recognize and evaluate random processes underlying statistical experiments.
+PA Core - Mathematics,Math,10,"Measurement, Data, and Probability",CC.2.4.HS.B.4,Recognize and evaluate random processes underlying statistical experiments.
+PA Core - Mathematics,Math,11,"Measurement, Data, and Probability",CC.2.4.HS.B.4,Recognize and evaluate random processes underlying statistical experiments.
+PA Core - Mathematics,Math,12,"Measurement, Data, and Probability",CC.2.4.HS.B.4,Recognize and evaluate random processes underlying statistical experiments.
+PA Core - Mathematics,Math,9,"Measurement, Data, and Probability",CC.2.4.HS.B.5,"Make inferences and justify conclusions based on sample surveys, experiments, and observational studies."
+PA Core - Mathematics,Math,10,"Measurement, Data, and Probability",CC.2.4.HS.B.5,"Make inferences and justify conclusions based on sample surveys, experiments, and observational studies."
+PA Core - Mathematics,Math,11,"Measurement, Data, and Probability",CC.2.4.HS.B.5,"Make inferences and justify conclusions based on sample surveys, experiments, and observational studies."
+PA Core - Mathematics,Math,12,"Measurement, Data, and Probability",CC.2.4.HS.B.5,"Make inferences and justify conclusions based on sample surveys, experiments, and observational studies."
+PA Core - Mathematics,Math,9,"Measurement, Data, and Probability",CC.2.4.HS.B.6,Use the concepts of independence and conditional probability to interpret data.
+PA Core - Mathematics,Math,10,"Measurement, Data, and Probability",CC.2.4.HS.B.6,Use the concepts of independence and conditional probability to interpret data.
+PA Core - Mathematics,Math,11,"Measurement, Data, and Probability",CC.2.4.HS.B.6,Use the concepts of independence and conditional probability to interpret data.
+PA Core - Mathematics,Math,12,"Measurement, Data, and Probability",CC.2.4.HS.B.6,Use the concepts of independence and conditional probability to interpret data.
+PA Core - Mathematics,Math,9,"Measurement, Data, and Probability",CC.2.4.HS.B.7,Apply the rules of probability to compute probabilities of compound events in a uniform probability model.
+PA Core - Mathematics,Math,10,"Measurement, Data, and Probability",CC.2.4.HS.B.7,Apply the rules of probability to compute probabilities of compound events in a uniform probability model.
+PA Core - Mathematics,Math,11,"Measurement, Data, and Probability",CC.2.4.HS.B.7,Apply the rules of probability to compute probabilities of compound events in a uniform probability model.
+PA Core - Mathematics,Math,12,"Measurement, Data, and Probability",CC.2.4.HS.B.7,Apply the rules of probability to compute probabilities of compound events in a uniform probability model.
+PA Core - Mathematics,Math,PreK,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,K,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,1,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,2,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,3,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,4,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,5,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,6,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,7,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,8,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,9,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,10,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,11,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,12,Mathematical Practice,,Make sense of problems and persevere in solving them.
+PA Core - Mathematics,Math,PreK,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,K,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,1,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,2,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,3,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,4,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,5,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,6,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,7,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,8,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,9,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,10,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,11,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,12,Mathematical Practice,,Construct viable arguments and critique the reasoning of others.
+PA Core - Mathematics,Math,PreK,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,K,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,1,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,2,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,3,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,4,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,5,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,6,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,7,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,8,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,9,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,10,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,11,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,12,Mathematical Practice,,Use appropriate tools strategically.
+PA Core - Mathematics,Math,PreK,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,K,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,1,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,2,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,3,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,4,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,5,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,6,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,7,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,8,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,9,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,10,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,11,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,12,Mathematical Practice,,Look for and make use of structure.
+PA Core - Mathematics,Math,PreK,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,K,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,1,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,2,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,3,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,4,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,5,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,6,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,7,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,8,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,9,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,10,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,11,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,12,Mathematical Practice,,Reason abstractly and quantitatively.
+PA Core - Mathematics,Math,PreK,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,K,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,1,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,2,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,3,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,4,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,5,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,6,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,7,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,8,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,9,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,10,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,11,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,12,Mathematical Practice,,Model with mathematics.
+PA Core - Mathematics,Math,PreK,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,K,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,1,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,2,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,3,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,4,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,5,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,6,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,7,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,8,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,9,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,10,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,11,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,12,Mathematical Practice,,Attend to precision.
+PA Core - Mathematics,Math,PreK,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,K,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,1,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,2,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,3,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,4,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,5,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,6,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,7,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,8,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,9,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,10,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,11,Mathematical Practice,,Look for and express regularity in repeated reasoning.
+PA Core - Mathematics,Math,12,Mathematical Practice,,Look for and express regularity in repeated reasoning.

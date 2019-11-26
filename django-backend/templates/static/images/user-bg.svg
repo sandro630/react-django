@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="110" height="110" viewBox="0 0 110 110">
+  <defs>
+    <clipPath id="clip-user-bg">
+      <rect width="110" height="110"/>
+    </clipPath>
+  </defs>
+  <g id="user-bg" clip-path="url(#clip-user-bg)">
+    <rect width="110" height="110" fill="rgba(255,255,255,0)"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="55" cy="55" r="55" fill="#dfdfdf"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" cx="21" cy="21" r="21" transform="translate(34 19)" fill="#fff"/>
+    <path id="Intersection_1" data-name="Intersection 1" d="M20,97.428V92A24,24,0,0,1,44,68H67A24,24,0,0,1,91,92v4.583a55.006,55.006,0,0,1-71,.846Z" fill="#fff"/>
+  </g>
+</svg>
