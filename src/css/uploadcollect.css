@@ -1,0 +1,15 @@
+.my-modal-wrapper {
+  position: absolute;
+  z-index: 1060;
+}
+
+.share img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+.hidden-btn{
+  display:none;
+}*/
