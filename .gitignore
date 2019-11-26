@@ -1,5 +1,9 @@
-.env
-.env.dev
-.env.pro
-src/**
+/*
+!public/
+!.gitignore
+!package.json
+!Dockerfile
+!.dockerignore
+!src/
+src/*
 !src/actions/
